@@ -1,0 +1,11 @@
+{
+  "default_voice": "",
+  "default_language": "en-US",
+  "default_rate": 1.55,
+  "default_pitch": 1.25,
+  "default_volume": 1.0,
+  "auto_save_history": true,
+  "clear_after_speaking": false,
+  "keep_last_text": true,
+  "theme": "light"
+}
